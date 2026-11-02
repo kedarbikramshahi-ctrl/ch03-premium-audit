@@ -1,0 +1,9 @@
+Please verify that Entire is capturing this new Codex session in my ch03-premium-audit repository. Read the README.md and check the existing project structure. Do not modify any files yet. Report the result of `entire session current` and whether the current session is being recorded.
+
+---
+
+Please troubleshoot the failing Entire UserPromptSubmit hook in this repository. The hook exits with code 1. Check .codex/hooks.json, the hook command, and Entire diagnostics. Identify and fix the actual cause without disabling session capture or fabricating records. Then verify that a new Codex turn is captured successfully. Do not begin implementing the premium audit assignment yet.
+
+---
+
+Please create skills/class-code-assistant/SKILL.md with an initial Skill name, description, and purpose based on the assignment README. Do not invent classification rules or employer data. Then verify that Entire recorded this file change and report the session and checkpoint status. Do not commit yet.
