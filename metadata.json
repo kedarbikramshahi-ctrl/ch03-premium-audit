@@ -3,9 +3,32 @@
   "checkpoint_id": "01M6EMRH0NNXHTMWGR18VZVYJT",
   "strategy": "manual-commit",
   "branch": "main",
-  "checkpoints_count": 3,
+  "checkpoints_count": 7,
   "files_touched": [
-    "skills/class-code-assistant/SKILL.md"
+    ".gitignore",
+    "README.md",
+    "deliverables/audit-questions.md",
+    "deliverables/audit-report.md",
+    "deliverables/codes/annapolis-courier.csv",
+    "deliverables/codes/bay-crest-exteriors.csv",
+    "deliverables/codes/harbor-point-legal.csv",
+    "deliverables/codes/larkspur-lane-bistro.csv",
+    "deliverables/codes/patuxent-electric.csv",
+    "deliverables/codes/severn-homebuilders.csv",
+    "deliverables/source-manifest.json",
+    "interviews/ch03-premium-audit-20261102-1605.md",
+    "skills/class-code-assistant/SKILL.md",
+    "skills/class-code-assistant/references/reviews/annapolis-courier.json",
+    "skills/class-code-assistant/references/reviews/bay-crest-exteriors.json",
+    "skills/class-code-assistant/references/reviews/harbor-point-legal.json",
+    "skills/class-code-assistant/references/reviews/larkspur-lane-bistro.json",
+    "skills/class-code-assistant/references/reviews/patuxent-electric.json",
+    "skills/class-code-assistant/references/reviews/severn-homebuilders.json",
+    "skills/class-code-assistant/references/sources.json",
+    "skills/class-code-assistant/references/workflow.md",
+    "skills/class-code-assistant/scripts/audit.mjs",
+    "skills/class-code-assistant/scripts/audit.test.mjs",
+    "skills/class-code-assistant/scripts/verify.mjs"
   ],
   "sessions": [
     {
@@ -14,14 +37,21 @@
       "compact_transcript": "/0/transcript.jsonl",
       "content_hash": "/0/content_hash.txt",
       "prompt": "/0/prompt.txt"
+    },
+    {
+      "metadata": "/1/metadata.json",
+      "transcript": "/1/full.jsonl",
+      "compact_transcript": "/1/transcript.jsonl",
+      "content_hash": "/1/content_hash.txt",
+      "prompt": "/1/prompt.txt"
     }
   ],
   "token_usage": {
-    "input_tokens": 53505,
+    "input_tokens": 187099,
     "cache_creation_tokens": 0,
-    "cache_read_tokens": 1432192,
-    "output_tokens": 3870,
-    "api_call_count": 31,
+    "cache_read_tokens": 3722240,
+    "output_tokens": 14838,
+    "api_call_count": 68,
     "subagent_tokens_complete": true
   }
 }

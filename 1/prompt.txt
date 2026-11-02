@@ -1,0 +1,59 @@
+Start a genuine review of my existing CH03 Premium Audit Assistant implementation. First verify that Entire is capturing this new Codex CLI session. Then review the implementation, run the 17 tests and six-employer verification, and report any issues. Preserve the original interview and native Codex transcript. Do not change audit calculations, attach sessions, commit, or push anything yet.
+
+---
+
+Please fix the three verified implementation issues identified in your review:
+
+1. Update verify.mjs to detect incorrect payroll allocations by class code, not just total payroll.
+2. Ensure verification fails when expected employer outputs are missing or the employer selection is unexpectedly empty.
+3. Update audit.mjs to reject invalid fetchedAt timestamps.
+
+Add regression tests for all three issues. Run the complete test suite and verify all six employer outputs again using the original source records.
+
+Preserve the interview transcript, existing correct payroll calculations, and audit deliverables. Do not fabricate missing information or capture records.
+
+Confirm that Entire is recording this coding session. Do not commit, push, or attach sessions yet.
+
+Report the final test results and any remaining issues.
+
+---
+
+Please fix the three verified implementation issues identified in your review:
+
+1. Update verify.mjs to detect incorrect payroll allocations by class code, not just total payroll.
+2. Ensure verification fails when expected employer outputs are missing or the employer selection is unexpectedly empty.
+3. Update audit.mjs to reject invalid fetchedAt timestamps.
+
+Add regression tests for all three issues. Run the complete test suite and verify all six employer outputs again using the original source records.
+
+Preserve the interview transcript, existing correct payroll calculations, and audit deliverables. Do not fabricate missing information or capture records.
+
+Confirm that Entire is recording this coding session. Do not commit, push, or attach sessions yet.
+
+Report the final test results and any remaining issues.
+
+---
+
+- Verification now compares payroll amounts by class code against recomputed allocations.
+- Missing, empty, duplicated, or unexpected employer selections fail. Intentional single-employer verification requires an explicit slug.
+- Invalid fetchedAt timestamps are rejected before outputs are written.
+
+Results: 23/23 tests passed, including the new regressions. All six employer outputs passed verification against fresh connected Drive reads of the original guide and 34 employer records.
+
+Hash checks confirm the interview and all existing deliverables are unchanged. Payroll calculation rules remain unchanged.
+
+Entire recognizes session 01a19d37-07cc-72a0-be9f-b252270590eb, records this coding prompt and changed files, and passes hook diagnostics. No sessions were attached; nothing was committed or pushed.
+
+Remaining limitations: class verification reuses the existing classifier, so it detects output discrepancies rather than independently validating policy logic. The previously documented employer confirmation items remain open.
+
+---
+
+Please prepare my CH03 Premium Audit Assistant for GitHub submission.
+
+Stage only the 27 approved project files from the final pre-submission review. Exclude temporary files, cached data, credentials, redundant .gitkeep files, and raw Codex transcripts.
+
+Run git diff --cached --name-status and git diff --cached --check. Confirm the staged files match the approved list.
+
+Verify Entire is still recording this session.
+
+Do not commit, push, or attach any sessions yet. Show me the staging results for approval.
