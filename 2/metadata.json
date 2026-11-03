@@ -1,0 +1,40 @@
+{
+  "cli_version": "0.11.5",
+  "checkpoint_id": "01M6FR6EDT18J42BRW54ZKZ714",
+  "session_id": "01a19f7e-4396-7ab3-9461-b5c83d433f63",
+  "strategy": "manual-commit",
+  "created_at": "2026-11-03T03:46:02.0847334Z",
+  "branch": "ch03-improvements",
+  "checkpoints_count": 2,
+  "save_step_count": 2,
+  "files_touched": [
+    "README.md",
+    "deliverables/audit-questions.md",
+    "deliverables/source-manifest.json",
+    "skills/class-code-assistant/SKILL.md",
+    "skills/class-code-assistant/references/reviews/bay-crest-exteriors.json",
+    "skills/class-code-assistant/references/reviews/larkspur-lane-bistro.json",
+    "skills/class-code-assistant/references/reviews/severn-homebuilders.json",
+    "skills/class-code-assistant/references/workflow.md",
+    "skills/class-code-assistant/scripts/audit.mjs",
+    "skills/class-code-assistant/scripts/audit.test.mjs",
+    "skills/class-code-assistant/scripts/expected-audits.mjs",
+    "skills/class-code-assistant/scripts/fixtures/six-employer-sources.json",
+    "skills/class-code-assistant/scripts/verify.mjs"
+  ],
+  "agent": "Codex",
+  "model": "gpt-6.1-sol",
+  "turn_id": "307cc0d170b8",
+  "compact_transcript_start": 0,
+  "token_usage": {
+    "input_tokens": 24506,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 325120,
+    "output_tokens": 2244,
+    "api_call_count": 11,
+    "subagent_tokens_complete": true
+  },
+  "session_metrics": {
+    "turn_count": 2
+  }
+}

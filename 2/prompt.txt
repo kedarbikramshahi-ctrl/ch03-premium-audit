@@ -1,0 +1,20 @@
+Please check that Entire recognizes our active CH03 session and confirm the current Git branch.
+
+Then stage only the 13 previously reviewed CH03 improvement files.
+
+Run the Git staging verification commands yourself. Do not print the commands for me to execute manually.
+
+Do not commit, push, merge, or resubmit anything.
+
+Tell me whether staging succeeded and whether Entire is still recording.
+
+---
+
+Before committing my CH03 improvements, please investigate the Entire warning: "Codex hook discovery unresolved."
+
+1. Run `entire doctor` and inspect the hook configuration.
+2. Check whether this warning is caused by the current execution environment or an actual missing hook.
+3. Confirm whether the current Codex CLI session has genuine captured turns pending.
+4. Explain whether it is safe to commit and whether the Git hook can create an Entire checkpoint.
+
+Do not modify any project files, commit, push, merge, or resubmit. Report the diagnosis and recommended next step.
