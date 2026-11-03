@@ -1,0 +1,7 @@
+Before doing any coding, verify that Entire is actively recording this exact Codex CLI session.
+
+Run entire doctor, entire session current, and entire session list.
+
+Confirm the exact session ID, active Git branch, and whether Entire recognizes this session.
+
+Do not modify files, commit, push, or resubmit. Report the results first.

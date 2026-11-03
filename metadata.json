@@ -1,0 +1,35 @@
+{
+  "cli_version": "0.11.5",
+  "checkpoint_id": "01M6FR6EDT18J42BRW54ZKZ714",
+  "strategy": "manual-commit",
+  "branch": "ch03-improvements",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "README.md",
+    "skills/class-code-assistant/SKILL.md",
+    "skills/class-code-assistant/references/reviews/bay-crest-exteriors.json",
+    "skills/class-code-assistant/references/reviews/larkspur-lane-bistro.json",
+    "skills/class-code-assistant/references/reviews/severn-homebuilders.json",
+    "skills/class-code-assistant/references/workflow.md",
+    "skills/class-code-assistant/scripts/audit.mjs",
+    "skills/class-code-assistant/scripts/audit.test.mjs",
+    "skills/class-code-assistant/scripts/verify.mjs"
+  ],
+  "sessions": [
+    {
+      "metadata": "/0/metadata.json",
+      "transcript": "/0/full.jsonl",
+      "compact_transcript": "/0/transcript.jsonl",
+      "content_hash": "/0/content_hash.txt",
+      "prompt": "/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 7198,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 32640,
+    "output_tokens": 323,
+    "api_call_count": 2,
+    "subagent_tokens_complete": true
+  }
+}
