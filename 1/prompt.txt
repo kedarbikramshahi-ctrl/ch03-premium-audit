@@ -1,0 +1,191 @@
+Check whether Entire recognizes this new Codex CLI session.
+
+Run entire session current and entire session list.
+
+Confirm my exact session ID and current Git branch (ch03-improvements).
+
+Do not modify any files or commit anything yet.
+
+---
+
+Entire now recognizes this active Codex CLI session on ch03-improvements.
+
+Please conduct a genuine technical review of the nine existing modified files.
+
+Run all 41 tests and verify all six employer outputs against the source evidence.
+
+Then evaluate the remaining reusable-skill limitations:
+1. General time-based payroll division across multiple class codes.
+2. Evidence-backed owner exclusions.
+3. Independent test expectations for classification decisions.
+4. Unresolved Annapolis Courier ride-along allocation policy.
+
+Identify which improvements can be implemented from existing documented rules and which require stakeholder clarification.
+
+Do not invent business rules or change provisional payroll allocations without supporting evidence.
+
+Do not commit, push, attach sessions, or resubmit.
+
+Report the results and propose the next implementation steps.
+
+---
+
+Please implement the next improvements to my CH03 Premium Audit Assistant on the ch03-improvements branch.
+
+Focus on:
+1. Adding independent expected calculations and regression tests for the six employer audits, without simply calling the same classifier to calculate expected results.
+2. Improving audit questions with specific employee names, dates, disputed payments, missing documents, and evidence references.
+3. Strengthening the README and Skill documentation to explain provisional decisions, unresolved evidence, and verification limitations.
+
+Do not invent business rules or change existing payroll allocations without authorized evidence.
+Keep the original stakeholder interview unchanged.
+Run the full test suite and all six employer verifications.
+Confirm Entire recognizes this active session and inspect its pending capture records.
+Do not commit, push, attach sessions, or resubmit. Report the results for my review.
+
+---
+
+Please give me a final status report for the current ch03-improvements branch.
+
+Confirm:
+1. Which files were actually modified.
+2. Which improvements are complete and which remain unresolved.
+3. The latest full test results and six-employer verification results.
+4. Whether Entire has pending captured turns and which files they cover.
+5. Whether any unresolved business rules could affect the six submitted employer allocations.
+
+Do not modify files, commit, push, attach sessions, or resubmit. I only need the current status.
+
+---
+
+Before we proceed with my CH03 resubmission, please provide a concise verification summary.
+
+Run the complete test suite and all six employer verifications again.
+
+Show the current Git branch, modified files, and Entire pending checkpoint status.
+
+Clearly identify any remaining technical defects that can be fixed without inventing business rules.
+
+Do not modify files, commit, push, attach sessions, or resubmit.
+
+I have only two submission attempts remaining.
+
+---
+
+Please fix the four confirmed technical defects identified in your latest CH03 verification review:
+
+1. Detect named route passengers with missing employee IDs.
+2. Require exact monetary amount matching in financial rationale verification.
+3. Require catering receipts whenever the employer's operations make the catering threshold relevant, even if no employee is explicitly labeled catering.
+4. Reject non-finite timesheet values, including Infinity and NaN.
+
+Add regression tests demonstrating each defect before the fix and passing afterward.
+
+Preserve the original interview and all six employer payroll outputs unless supported evidence requires a change.
+
+Run the complete test suite, six-employer verification, and git diff --check.
+
+Confirm the active Entire session and its pending capture status.
+
+Do not commit, push, attach sessions, or resubmit. Report the final results.
+
+---
+
+Please confirm whether all four requested technical defects have been fixed. For each defect, show the modified file, the regression test added, and whether it passes. Run the complete test suite, verify all six employer outputs, and run git diff --check. Report the exact test count, any remaining failures, and the current Entire pending capture status. Do not modify files, commit, push, attach sessions, or resubmit. This is a read-only verification.Please confirm whether all four requested technical defects have been fixed. For each defect, show the modified file, the regression test added, and whether it passes. Run the complete test suite, verify all six employer outputs, and run git diff --check. Report the exact test count, any remaining failures, and the current Entire pending capture status. Do not modify files, commit, push, attach sessions, or resubmit. This is a read-only verification.
+
+---
+
+Please provide only the final verification results for CH03.
+
+Confirm the exact number of tests passed and failed, whether all four technical defects are fixed, whether all six employer outputs pass verification, and whether git diff --check passes.
+
+Also confirm the current branch and Entire capture status.
+
+Do not make changes, commit, push, or resubmit.
+ Copy promptPlease provide only the final verification results for CH03.
+
+Confirm the exact number of tests passed and failed, whether all four technical defects are fixed, whether all six employer outputs pass verification, and whether git diff --check passes.
+
+Also confirm the current branch and Entire capture status.
+
+Do not make changes, commit, push, or resubmit.
+ Copy prompt
+
+---
+
+Please give me only these three results from the latest completed verification:
+1. Exact number of tests passed and failed.
+2. Whether all six employer audits passed verification.
+3. Whether each of the four technical defects is fixed, with its regression test passing.
+If any result is unavailable, say so. Do not modify files, commit, push, or resubmit.
+
+---
+
+My CH03 improvements now pass 64/64 tests, and all six employer audits pass verification.
+
+Please perform a final pre-commit review on ch03-improvements.
+
+Check the exact files to stage, exclude temporary files, credentials, logs, and local Entire metadata, and verify that the original stakeholder interview and six payroll CSVs remain unchanged.
+
+Review git diff, git status, and Entire's pending capture records. Confirm whether the active session's work can be linked to a normal Git commit.
+
+Provide the recommended staging list and commit message.
+
+Do not stage, commit, push, merge, attach sessions, or resubmit ye
+
+---
+
+Please show me the exact recommended Git staging list for ch03-improvements, including modified and new files. Confirm that no temporary files, credentials, local Entire logs, or metadata are included. Confirm whether the active Entire session's pending turns can be linked to a normal commit. Recommend a commit message. Do not stage, commit, push, merge, or resubmit yet.Please show me the exact recommended Git staging list for ch03-improvements, including modified and new files. Confirm that no temporary files, credentials, local Entire logs, or metadata are included. Confirm whether the active Entire session's pending turns can be linked to a normal commit. Recommend a commit message. Do not stage, commit, push, merge, or resubmit yet.
+
+---
+
+Please show me the exact recommended Git staging list for ch03-improvements, including modified and new files.
+
+Confirm that no temporary files, credentials, local Entire logs, or metadata are included.
+
+Confirm whether the active Entire session's pending turns can be linked to a normal commit.
+
+Recommend a commit message.
+
+Do not stage, commit, push, merge, or resubmit yet.
+
+---
+
+Please list ONLY the exact file paths that should be staged for my CH03 improvements commit.
+
+Also show:
+1. Files that must be excluded.
+2. Current Entire pending capture status.
+3. Recommended commit message.
+
+Do not modify, stage, commit, or push anything.
+
+---
+
+opy this into your Codex CLI terminal:
+Please review the 13-file staging list you recommended.
+
+1. Confirm these files are the complete CH03 improvements for this branch.
+2. Check that none of the files contain secrets, temporary data, or unrelated changes.
+3. Confirm the existing interview transcript and six employer CSVs remain unchanged.
+4. Check whether the 12 pending Entire turns can be linked to a normal commit.
+5. Show the exact git add command for only those 13 files.
+
+Do not stage, commit, push, merge, attach sessions, or resubmit anything yet.
+ Copy prompt
+
+---
+
+Please check our current CH03 project status again.
+
+Confirm that Entire recognizes session `01a19e23-3ee3-7ac2-9b43-ca12fc056191` and that we are on branch `ch03-improvements`.
+
+Then stage ONLY the 13 improvement files we previously reviewed.
+
+After staging, run:
+- `git diff --cached --name-status`
+- `git diff --cached --check`
+- `git status --short`
+- `entire session current`
+
+Do not commit, push, merge, or resubmit anything yet. Report the results.
